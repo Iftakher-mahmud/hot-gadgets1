@@ -1,0 +1,39 @@
+.container{
+    margin-bottom: 100px;
+}
+.bg-color1{
+    background-image: linear-gradient(90deg,skyblue,cyan);
+    border-radius: 10px;
+    
+}
+.carousel-item{
+    padding: 30px 100px;
+}
+.buy-now-button{
+    background-color: black;
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
+}
+.see-all{
+    text-align: end;
+    color:#FF9D00;
+    font-weight: bold;
+    text-align:right;float:right
+}
+.card{
+    border: 0;
+}
+.piku-title-see-all{
+    margin-bottom: 50px;
+}
+.last-one h3{
+    text-align: center;
+}
+.last-one{
+    border-bottom: 7px solid;
+    border-image: linear-gradient(#FF9C35, #FFCB1C);
+    border-image-slice: 1;    
+}
